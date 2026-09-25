@@ -7,3 +7,7 @@ checksum = "f66cdecdd391c8f585fc23317dca5e3f"
 [exercises."part01-Part01_02.AdaLovelace"]
 id = 83114
 checksum = "9d9545c2c86b00f490fa94a7f274d9b9"
+
+[exercises."part01-Part01_03.OnceUponATime"]
+id = 83115
+checksum = "9567e7736b4a84288472281436d3f30f"
