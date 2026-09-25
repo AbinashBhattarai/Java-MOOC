@@ -1,0 +1,5 @@
+course = "mooc-java-programming-i"
+
+[exercises."part01-Part01_01.Sandbox"]
+id = 83113
+checksum = "f66cdecdd391c8f585fc23317dca5e3f"
