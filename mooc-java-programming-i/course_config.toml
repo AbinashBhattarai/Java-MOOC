@@ -3,3 +3,7 @@ course = "mooc-java-programming-i"
 [exercises."part01-Part01_01.Sandbox"]
 id = 83113
 checksum = "f66cdecdd391c8f585fc23317dca5e3f"
+
+[exercises."part01-Part01_02.AdaLovelace"]
+id = 83114
+checksum = "9d9545c2c86b00f490fa94a7f274d9b9"
