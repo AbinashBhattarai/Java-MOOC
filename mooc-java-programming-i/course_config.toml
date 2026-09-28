@@ -15,3 +15,7 @@ checksum = "9567e7736b4a84288472281436d3f30f"
 [exercises."part01-Part01_04.Dinosaur"]
 id = 83116
 checksum = "63f9914930ea768de1c7430deee85cde"
+
+[exercises."part01-Part01_05.Message"]
+id = 83117
+checksum = "fa0e6f665178b102308d3990b3cfd954"
