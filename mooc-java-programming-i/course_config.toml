@@ -39,3 +39,23 @@ checksum = "e2b67ce48be85bbeb671f6acef545411"
 [exercises."part01-Part01_10.Story"]
 id = 83122
 checksum = "5fa02fc562157cabf8fe3ae20c1f8c06"
+
+[exercises."part01-Part01_11.VariousVariables"]
+id = 83123
+checksum = "8b93dbfbe86b29db09ba1452a0f0624a"
+
+[exercises."part01-Part01_12.IntegerInput"]
+id = 83124
+checksum = "48d027b6770bc53eead281b596162824"
+
+[exercises."part01-Part01_13.DoubleInput"]
+id = 83125
+checksum = "490f11b1e2243637ffc7c5d0428a4e95"
+
+[exercises."part01-Part01_14.BooleanInput"]
+id = 83126
+checksum = "e3ec419482db540ac31874f192a927b9"
+
+[exercises."part01-Part01_15.DifferentTypesOfInput"]
+id = 83127
+checksum = "fe935bda7a23ab85d611dbd6022982f8"
