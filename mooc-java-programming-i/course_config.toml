@@ -23,3 +23,7 @@ checksum = "fa0e6f665178b102308d3990b3cfd954"
 [exercises."part01-Part01_06.HiAdaLovelace"]
 id = 83118
 checksum = "98b92531656d4dbd3d7f69df2be9e919"
+
+[exercises."part01-Part01_07.MessageThreeTimes"]
+id = 83119
+checksum = "009e311c868e405d590499f506097752"
