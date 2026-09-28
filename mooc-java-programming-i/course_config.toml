@@ -31,3 +31,7 @@ checksum = "009e311c868e405d590499f506097752"
 [exercises."part01-Part01_08.Greeting"]
 id = 83120
 checksum = "f43e4b7f10c27dbcddc6a97fb0494bcb"
+
+[exercises."part01-Part01_09.Conversation"]
+id = 83121
+checksum = "e2b67ce48be85bbeb671f6acef545411"
