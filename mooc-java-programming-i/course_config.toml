@@ -91,3 +91,59 @@ checksum = "37572e65307fd4dd9b2fd04e5b6c085f"
 [exercises."part01-Part01_23.SimpleCalculator"]
 id = 83135
 checksum = "2dca1880dde20c4305ddf3a7a87f2e3a"
+
+[exercises."part01-Part01_24.SpeedingTicket"]
+id = 83136
+checksum = "8f84a3c655baef79b646c07930bbd978"
+
+[exercises."part01-Part01_25.CheckYourIndentation"]
+id = 83137
+checksum = "095e381b011b3ca07ca1e53bb30cbca9"
+
+[exercises."part01-Part01_26.Orwell"]
+id = 83138
+checksum = "7bffad77c1bed367fc80c3fabf021f2b"
+
+[exercises."part01-Part01_27.Ancient"]
+id = 83139
+checksum = "de4323a595f6914ed5c6011196445767"
+
+[exercises."part01-Part01_28.Positivity"]
+id = 83140
+checksum = "e0d65ee87ee04ccf49601ad20c7f3b13"
+
+[exercises."part01-Part01_29.Adulthood"]
+id = 83141
+checksum = "30ebea54baf3fffd3a0f2d58c659e8be"
+
+[exercises."part01-Part01_30.LargerThanOrEqualTo"]
+id = 83142
+checksum = "a740062f4a903dd0b4b963e959ebf440"
+
+[exercises."part01-Part01_31.GradesAndPoints"]
+id = 83143
+checksum = "f258e24ff4575ba11a3a92c8ceaffd33"
+
+[exercises."part01-Part01_32.OddOrEven"]
+id = 83144
+checksum = "69e8b3ca07f8e0a85775e00f9575b81c"
+
+[exercises."part01-Part01_33.Password"]
+id = 83145
+checksum = "9ad49c19b3931986d76908cd536576c2"
+
+[exercises."part01-Part01_34.Same"]
+id = 83146
+checksum = "7a0348a3b7ebe19b7ae8be1ce0798673"
+
+[exercises."part01-Part01_35.CheckingTheAge"]
+id = 83147
+checksum = "e5bfc89c434cd1293fc0b343cbdcd5a6"
+
+[exercises."part01-Part01_36.LeapYear"]
+id = 83148
+checksum = "2624eaf5db3a7cf6b826e324df71967e"
+
+[exercises."part01-Part01_37.GiftTax"]
+id = 83149
+checksum = "f2d3ce4e84a51ed69d7e991b2deb376c"
