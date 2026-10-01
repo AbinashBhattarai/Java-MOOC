@@ -147,3 +147,19 @@ checksum = "2624eaf5db3a7cf6b826e324df71967e"
 [exercises."part01-Part01_37.GiftTax"]
 id = 83149
 checksum = "f2d3ce4e84a51ed69d7e991b2deb376c"
+
+[exercises."part02-Part02_01.Squared"]
+id = 83150
+checksum = "09a6680d3725d37e6a984743aabd46c7"
+
+[exercises."part02-Part02_02.SquareRootOfSum"]
+id = 83151
+checksum = "97b71902e421c1f260c516f89d15a78e"
+
+[exercises."part02-Part02_03.AbsoluteValue"]
+id = 83152
+checksum = "62ef8b43898b94088983a472b6f17c9f"
+
+[exercises."part02-Part02_04.ComparingNumbers"]
+id = 83153
+checksum = "d4f3bd702039e43f177d100419c9de18"
