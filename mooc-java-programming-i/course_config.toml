@@ -227,3 +227,59 @@ checksum = "af124d2df2660a4a96be01a91a22f8b9"
 [exercises."part02-Part02_20.RepeatingBreakingAndRemembering"]
 id = 83169
 checksum = "117aa3bdc3b9ba330560881404d8022e"
+
+[exercises."part02-Part02_21.InAHoleInTheGround"]
+id = 83170
+checksum = "f2801bd6199f58052bd34fbe1010f3cc"
+
+[exercises."part02-Part02_22.Reprint"]
+id = 83171
+checksum = "b872a7e82662a56debfff92554e80e09"
+
+[exercises."part02-Part02_23.FromOneToParameter"]
+id = 83172
+checksum = "bd38ff929b6964df69148e7820ce231d"
+
+[exercises."part02-Part02_24.FromParameterToOne"]
+id = 83173
+checksum = "0a22d04b414aef2e737cfbb9dfe985a5"
+
+[exercises."part02-Part02_25.Division"]
+id = 83174
+checksum = "99c55336b0342aaa32908d5a8307e7f0"
+
+[exercises."part02-Part02_26.DivisibleByThree"]
+id = 83175
+checksum = "b54dbfe13d74c5e8d1480d1603c078a0"
+
+[exercises."part02-Part02_27.NumberUno"]
+id = 83176
+checksum = "b72f51eb57ac4dab64058d94ffbfd615"
+
+[exercises."part02-Part02_28.Word"]
+id = 83177
+checksum = "0e3675d2e62b480c5233fd1b633b9a0e"
+
+[exercises."part02-Part02_29.Summation"]
+id = 83178
+checksum = "9ada5dac4f43f12e30ea228c247769fd"
+
+[exercises."part02-Part02_30.Smallest"]
+id = 83179
+checksum = "b6eb4b1182a296e218d483f45f06ee94"
+
+[exercises."part02-Part02_31.Greatest"]
+id = 83180
+checksum = "047c649d324cac9d03f972f9a5e98c73"
+
+[exercises."part02-Part02_32.Averaging"]
+id = 83181
+checksum = "cf5f21ebfc9e8f39c9fd9297b8ad6f77"
+
+[exercises."part02-Part02_33.StarSign"]
+id = 83182
+checksum = "e2bfcbb82f343882c68d7e325010d400"
+
+[exercises."part02-Part02_34.AdvancedAstrology"]
+id = 83183
+checksum = "4d40b1e8751b17fb5b37e45bd75326be"
