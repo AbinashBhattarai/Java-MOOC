@@ -199,3 +199,31 @@ checksum = "0abdd28e44c96c73593ed63dddf10549"
 [exercises."part02-Part02_13.AverageOfPositiveNumbers"]
 id = 83162
 checksum = "7140812605391468733790dd476558e8"
+
+[exercises."part02-Part02_14.Counting"]
+id = 83163
+checksum = "75b7b06f29784202169bb2bb5f457bd9"
+
+[exercises."part02-Part02_15.CountingToHundred"]
+id = 83164
+checksum = "990fd2c6898989fd0a8e6fa33f9b4e0d"
+
+[exercises."part02-Part02_16.FromWhereToWhere"]
+id = 83165
+checksum = "9dec8b5c80890aee7cf6ef0af46b3d9f"
+
+[exercises."part02-Part02_17.SumOfASequence"]
+id = 83166
+checksum = "24d89a6dd262dde88d7ec831a24f1957"
+
+[exercises."part02-Part02_18.SumOfASequenceTheSequel"]
+id = 83167
+checksum = "c62ae66c4ebacbff1a5409ffc5480105"
+
+[exercises."part02-Part02_19.Factorial"]
+id = 83168
+checksum = "af124d2df2660a4a96be01a91a22f8b9"
+
+[exercises."part02-Part02_20.RepeatingBreakingAndRemembering"]
+id = 83169
+checksum = "117aa3bdc3b9ba330560881404d8022e"
