@@ -163,3 +163,39 @@ checksum = "62ef8b43898b94088983a472b6f17c9f"
 [exercises."part02-Part02_04.ComparingNumbers"]
 id = 83153
 checksum = "d4f3bd702039e43f177d100419c9de18"
+
+[exercises."part02-Part02_05.CarryOn"]
+id = 83154
+checksum = "bb3bc22189802bbc33011d229a68f046"
+
+[exercises."part02-Part02_06.AreWeThereYet"]
+id = 83155
+checksum = "cb510bca5897924fee73a3de7d0cf0f1"
+
+[exercises."part02-Part02_07.OnlyPositives"]
+id = 83156
+checksum = "bf09e7e53e07c129c3df7c65859db0f8"
+
+[exercises."part02-Part02_08.NumberOfNumbers"]
+id = 83157
+checksum = "3386c611ed60332f18700947bb68ea86"
+
+[exercises."part02-Part02_09.NumberOfNegativeNumbers"]
+id = 83158
+checksum = "57f08f24849fe84f6cf38b63affaf48c"
+
+[exercises."part02-Part02_10.SumOfNumbers"]
+id = 83159
+checksum = "6fca0be39db123e0ef1512671a41d797"
+
+[exercises."part02-Part02_11.NumberAndSumOfNumbers"]
+id = 83160
+checksum = "464c6c65c873948bbd61eacd688c373c"
+
+[exercises."part02-Part02_12.AverageOfNumbers"]
+id = 83161
+checksum = "0abdd28e44c96c73593ed63dddf10549"
+
+[exercises."part02-Part02_13.AverageOfPositiveNumbers"]
+id = 83162
+checksum = "7140812605391468733790dd476558e8"
