@@ -283,3 +283,71 @@ checksum = "e2bfcbb82f343882c68d7e325010d400"
 [exercises."part02-Part02_34.AdvancedAstrology"]
 id = 83183
 checksum = "4d40b1e8751b17fb5b37e45bd75326be"
+
+[exercises."part03-Part03_01.ThirdElement"]
+id = 83184
+checksum = "3ff9950e1c7d96bcb46a927978d1e767"
+
+[exercises."part03-Part03_02.SecondPlusThird"]
+id = 83185
+checksum = "131c9b914f1ef90725651049e8f3eb8a"
+
+[exercises."part03-Part03_03.IndexOutOfBoundsException"]
+id = 83186
+checksum = "1dcccc864af942591d5d34f56e245377"
+
+[exercises."part03-Part03_04.ListSize"]
+id = 83187
+checksum = "41db717a5de29423a56e31b3c5fbdbcc"
+
+[exercises."part03-Part03_05.LastInList"]
+id = 83188
+checksum = "97bdff87ee418956b48e6c4ce6e47e73"
+
+[exercises."part03-Part03_06.FirstAndLast"]
+id = 83189
+checksum = "3ef3d0bb4d32c466b8bb863e4687b464"
+
+[exercises."part03-Part03_07.RememberTheseNumbers"]
+id = 83190
+checksum = "c36d6acf52265499528537f4950f4483"
+
+[exercises."part03-Part03_08.OnlyTheseNumbers"]
+id = 83191
+checksum = "43009e46eea3681175073298b64dabd2"
+
+[exercises."part03-Part03_09.GreatestInList"]
+id = 83192
+checksum = "c3e9c96d04a5aa934604b6f1068fe67b"
+
+[exercises."part03-Part03_10.IndexOf"]
+id = 83193
+checksum = "64da91023345b85fceec81d39832d96f"
+
+[exercises."part03-Part03_11.IndexOfSmallest"]
+id = 83194
+checksum = "becdf7f93daf7473806abbf95855a53c"
+
+[exercises."part03-Part03_12.SumOfAList"]
+id = 83195
+checksum = "388fb8ebe8e9bc0aa57eb9bb0c8666e8"
+
+[exercises."part03-Part03_13.AverageOfAList"]
+id = 83196
+checksum = "3a103fc17af7f4f4952b03ce567d47e6"
+
+[exercises."part03-Part03_14.OnTheList"]
+id = 83197
+checksum = "e23dec313af671f0dccf69e3b7dd060f"
+
+[exercises."part03-Part03_15.PrintInRange"]
+id = 83198
+checksum = "31ceeef1ac6b18a130727042ebb3f298"
+
+[exercises."part03-Part03_16.Sum"]
+id = 83199
+checksum = "d32f9436bf37776f86ac390d2a3270b2"
+
+[exercises."part03-Part03_17.RemoveLast"]
+id = 83200
+checksum = "84306d83f48976fba8fa4d0c20c09f2e"
