@@ -411,3 +411,67 @@ checksum = "d952c75347d148eced8994e387683def"
 [exercises."part03-Part03_32.PersonalDetails"]
 id = 83215
 checksum = "b0f44f6d7a3ca7183c404840871e6519"
+
+[exercises."part04-Part04_01.YourFirstAccount"]
+id = 83216
+checksum = "1143b97d60c723f0d13f3983831ec3fa"
+
+[exercises."part04-Part04_02.YourFirstBankTransfer"]
+id = 83217
+checksum = "40a13bd058474e6f0d68b3c74d15f33d"
+
+[exercises."part04-Part04_03.DogAttributes"]
+id = 83218
+checksum = "8930062b81f21c0fbbb27a174347d00a"
+
+[exercises."part04-Part04_04.Room"]
+id = 83219
+checksum = "eb7d4f0532699bef2df7e8e585af0c8c"
+
+[exercises."part04-Part04_05.Whistle"]
+id = 83220
+checksum = "3fccbdfd554ed60c874b840d73f789cb"
+
+[exercises."part04-Part04_06.Door"]
+id = 83221
+checksum = "38045514092dc4471b5b1ac7eb01deb1"
+
+[exercises."part04-Part04_07.Product"]
+id = 83222
+checksum = "f73cdb9ef911b9e6135f63d10879d5e8"
+
+[exercises."part04-Part04_08.DecreasingCounter"]
+id = 83223
+checksum = "297c41bc44aeddb5a2c0823eb63caaef"
+
+[exercises."part04-Part04_09.Debt"]
+id = 83224
+checksum = "b9657a23fc62195f51f7a7f4b50f2d9b"
+
+[exercises."part04-Part04_10.Song"]
+id = 85612
+checksum = "a8d7ceba22de8084addb0512ecf0edcd"
+
+[exercises."part04-Part04_11.Film"]
+id = 83226
+checksum = "5db592523686c611b09c0bd4363af6aa"
+
+[exercises."part04-Part04_12.Gauge"]
+id = 83227
+checksum = "aab20185a8a10f1776ff134832da8edb"
+
+[exercises."part04-Part04_13.Agent"]
+id = 83228
+checksum = "06ee2e051c71e330cb31b39384a01a32"
+
+[exercises."part04-Part04_14.Multiplier"]
+id = 83229
+checksum = "46cd09c96f97fbd14391dfb972410bc7"
+
+[exercises."part04-Part04_15.NumberStatistics"]
+id = 83230
+checksum = "f7d6383dc9ab80159fe8b8e3ca051630"
+
+[exercises."part04-Part04_16.PaymentCard"]
+id = 83231
+checksum = "51bf0f419f24d3258daa2a65d52689ac"
