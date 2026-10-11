@@ -475,3 +475,63 @@ checksum = "f7d6383dc9ab80159fe8b8e3ca051630"
 [exercises."part04-Part04_16.PaymentCard"]
 id = 83231
 checksum = "51bf0f419f24d3258daa2a65d52689ac"
+
+[exercises."part04-Part04_17.Items"]
+id = 83232
+checksum = "927f3874a3895b9cec1eb348d98eff69"
+
+[exercises."part04-Part04_18.PersonalInformation"]
+id = 83233
+checksum = "0aef3e8a556784d427790d1b48d3abbe"
+
+[exercises."part04-Part04_19.TelevisionPrograms"]
+id = 83234
+checksum = "5523d95585f8a2598dd448b573a9707a"
+
+[exercises."part04-Part04_20.Books"]
+id = 83235
+checksum = "586817b4ad9ee31c05504216f9dfdcd0"
+
+[exercises."part04-Part04_21.NumberOfStrings"]
+id = 83236
+checksum = "7076002cfb10ebc604febfc60a3af085"
+
+[exercises."part04-Part04_22.Cubes"]
+id = 83237
+checksum = "66a7e13b92818ebc4cf17b25ed61bad0"
+
+[exercises."part04-Part04_23.CreatingANewFile"]
+id = 83238
+checksum = "920e72db8ec1aeeb4045368a0444e710"
+
+[exercises."part04-Part04_24.PrintingAFile"]
+id = 83239
+checksum = "00b36fef2cfcdf7c9128d26b135c2cce"
+
+[exercises."part04-Part04_25.PrintingASpecifiedFile"]
+id = 83240
+checksum = "55061b856677f466538e89a6ec66c237"
+
+[exercises."part04-Part04_26.GuestListFromAFile"]
+id = 83241
+checksum = "4bfcef8b6522c1eae9312786320f6c83"
+
+[exercises."part04-Part04_27.IsItInTheFile"]
+id = 83242
+checksum = "7049eb5d4acbee166d0b614a50d9a195"
+
+[exercises."part04-Part04_28.NumbersFromAFile"]
+id = 83243
+checksum = "04caaf7f5488e3a7e4e70fab4387764f"
+
+[exercises."part04-Part04_29.RecordsFromAFile"]
+id = 83244
+checksum = "f1b110f361710a96fbdff1c133923e4e"
+
+[exercises."part04-Part04_30.StoringRecords"]
+id = 83245
+checksum = "6be41271d4a8c11702a53dfcf06482d5"
+
+[exercises."part04-Part04_31.SportStatistics"]
+id = 83246
+checksum = "e159517750a25df6a2010e1fb2c6f30a"
