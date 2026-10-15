@@ -38,14 +38,9 @@ public class SimpleDate {
         SimpleDate otherDate = (SimpleDate) compared;
 
         // if the object's values are the same, the objects are the same
-        if (this.day == otherDate.day
+        return this.day == otherDate.day
                 && this.month == otherDate.month
-                && this.year == otherDate.year) {
-            return true;
-        }
-
-        // other wise, the objects are not the same
-        return false;
+                && this.year == otherDate.year;
     }
 
     @Override
