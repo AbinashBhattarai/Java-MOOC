@@ -635,3 +635,19 @@ checksum = "5138219805be1da541cb1ccf29cd2672"
 [exercises."part06-Part06_08.CargoHold"]
 id = 83271
 checksum = "5a9cebec765a7debd33e5ddc63f8ba69"
+
+[exercises."part06-Part06_09.SimpleDictionary"]
+id = 83272
+checksum = "2e3c3ce27a3cc511c961d78a7abd76cb"
+
+[exercises."part06-Part06_10.TodoList"]
+id = 83273
+checksum = "69d80d59d6e90901c91060489278ecca"
+
+[exercises."part06-Part06_11.Averages"]
+id = 83274
+checksum = "d85fca2c255cec42bec7377f9d22f804"
+
+[exercises."part06-Part06_12.JokeManager"]
+id = 83275
+checksum = "c0920579e9a769d14244a2d8d27fecff"
