@@ -651,3 +651,7 @@ checksum = "d85fca2c255cec42bec7377f9d22f804"
 [exercises."part06-Part06_12.JokeManager"]
 id = 83275
 checksum = "c0920579e9a769d14244a2d8d27fecff"
+
+[exercises."part06-Part06_13.Exercises"]
+id = 83276
+checksum = "cbf4ee4b81164510c547c35499415db6"
