@@ -35,4 +35,14 @@ public class ExerciseManagement {
         }
         return false;
     }
+
+    public String remove(String exercise) {
+        for (Exercise ex : this.exercises) {
+            if (ex.getName().equals(exercise)) {
+                this.exercises.remove(exercise);
+                return "Successful";
+            }
+        }
+        return "Not Successful";
+    }
 }

@@ -43,4 +43,11 @@ public class ExerciseManagementTest {
         mgmt.markAsCompleted("Test Exercise4");
         assertFalse(mgmt.isCompleted("Test Exercise5"));
     }
+
+    @Test
+    public void removedExerciseFromList() {
+        mgmt.add("Test Exercise6");
+        String result = mgmt.remove("Test Exercise6");
+        assertEquals("Successful", result);
+    }
 }
