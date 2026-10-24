@@ -47,3 +47,7 @@ checksum = "3e614f7bf34c8a76f3dae1b39c36ffe4"
 [exercises."part08-Part08_12.HashedDate"]
 id = 87705
 checksum = "826133e3cb9f1f9ea1a0b97e0afda7c1"
+
+[exercises."part08-Part08_13.VehicleRegistry"]
+id = 87706
+checksum = "a88983f88325b71782acfc400fd26edd"
