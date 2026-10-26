@@ -147,3 +147,19 @@ checksum = "13ded15e76f2dcd1255f1604d939f16a"
 [exercises."part10-Part10_10.BooksFromFile"]
 id = 87730
 checksum = "7ea976300e2f71a5cd861a052a639b76"
+
+[exercises."part10-Part10_11.WageOrder"]
+id = 87731
+checksum = "ea9105e5f2ecb30d508c6f7ef84e1e41"
+
+[exercises."part10-Part10_12.StudentsOnAlphabeticalOrder"]
+id = 87732
+checksum = "8f7b561d7d7a1168fa52ea86969269f0"
+
+[exercises."part10-Part10_13.LiteracyComparison"]
+id = 87733
+checksum = "15973313c58a0a868631db439b35760a"
+
+[exercises."part10-Part10_14.Literature"]
+id = 87734
+checksum = "88d15046b3988c88eef3636f823ecdf8"
