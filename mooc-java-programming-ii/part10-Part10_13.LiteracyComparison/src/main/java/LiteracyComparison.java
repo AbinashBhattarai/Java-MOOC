@@ -1,10 +1,8 @@
 
-import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class LiteracyComparison {
     
@@ -21,7 +19,7 @@ public class LiteracyComparison {
                                 Integer.valueOf(l[4]), 
                                 Double.valueOf(l[5])
                             ))
-                        .collect(Collectors.toList());
+                        .toList();
         } catch (Exception e) {
             // TODO: handle exception
         }

@@ -163,3 +163,15 @@ checksum = "15973313c58a0a868631db439b35760a"
 [exercises."part10-Part10_14.Literature"]
 id = 87734
 checksum = "88d15046b3988c88eef3636f823ecdf8"
+
+[exercises."part10-Part10_15.RegularExpressions"]
+id = 87735
+checksum = "11cfe652ab6cc1155a66701c0e66aa47"
+
+[exercises."part10-Part10_16.EnumAndIterator"]
+id = 87736
+checksum = "6593623f1328656dda405073d5070d6b"
+
+[exercises."part10-Part10_17.SortThemCards"]
+id = 87737
+checksum = "6301cfe4dc2ad2348130b131e4f913a1"
