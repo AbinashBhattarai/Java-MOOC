@@ -215,3 +215,15 @@ checksum = "80dacf2798bbc4ca663bb53a3329ead1"
 [exercises."part11-Part11_10.FlightControl"]
 id = 87747
 checksum = "2c9c2067f1f3e9f7c1eea46e8936bddf"
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 87748
+checksum = "59de4473d46a5d3983553a12f7d11fba"
+
+[exercises."part11-Part11_12.SensorsAndTemperature"]
+id = 87749
+checksum = "3d99c815b692e1ef313e022c08f86ecc"
+
+[exercises."part11-Part11_13.SaveableDictionary"]
+id = 87750
+checksum = "b269adc6891e3bfecf661bc878856a99"
