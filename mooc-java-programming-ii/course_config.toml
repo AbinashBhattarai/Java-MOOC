@@ -227,3 +227,15 @@ checksum = "956c8df982aec6b035b78d9e0d68cc64"
 [exercises."part12-Part12_02.Pipe"]
 id = 87752
 checksum = "42d5ed1311396cfd17c0b2960903a451"
+
+[exercises."part12-Part12_03.SumTheseForMe"]
+id = 87753
+checksum = "712ad1089f0bf55557f856b1e543e5ec"
+
+[exercises."part12-Part12_04.List"]
+id = 87754
+checksum = "684050b9a3b6a25a72afd4b818c6f902"
+
+[exercises."part12-Part12_05.HashMap"]
+id = 87755
+checksum = "83810010e064e23a1c42c1ff9cdaf7cf"
